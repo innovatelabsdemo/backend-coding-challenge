@@ -1,4 +1,4 @@
-# Lantern Exchange Backend Coding Challenge
+# Backend Coding Challenge
 
 ## Requirements
 
